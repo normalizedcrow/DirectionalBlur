@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f0afe9b02965b7343b3e0d784385d4d0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BlurTexture: {instanceID: 0}
+  - _DitherTexture: {fileID: 2800000, guid: 44dac4cf47f484e458e08ff47f0dac4c, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
